@@ -86,3 +86,15 @@ Our goal is to define clear requirements to solve these problems.
 1. Identify common bias issues in AI training datasets.  
 2. Research available AI fairness and bias detection tools.  
 3. Develop a prototype bias detection system for testing.
+
+#### **Functional Requirements:**  
+1. The system shall scan training datasets for bias indicators, such as overrepresentation or underrepresentation of certain groups.  
+2. The system shall generate a bias detection report highlighting potential fairness issues.  
+3. The system shall allow users to adjust dataset parameters to correct detected biases before model training.  
+4. The system shall provide visualizations to help developers understand bias trends in the dataset.
+
+#### **System Requirements:**  
+1. The system shall use AI-based fairness detection tools to analyze dataset distribution.  
+2. The system shall integrate predefined fairness metrics such as demographic parity and equal representation.  
+3. The system shall provide a dashboard with real-time bias monitoring and suggested actions to correct imbalances.  
+4. The system shall support integration with third-party bias detection frameworks for extended functionality.

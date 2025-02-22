@@ -121,3 +121,8 @@ Our goal is to define clear requirements to solve these problems.
 1. The system shall generate detailed reports on dataset balance, highlighting overrepresented and underrepresented groups.  
 2. The system shall provide recommendations on how to rebalance biased training data.  
 3. The system shall allow users to schedule automated dataset balance reports.  
+
+#### **System Requirements:**  
+1. The system shall use data analytics tools to process and visualize dataset balance information.  
+2. The system shall integrate with reporting tools to generate customizable insights.  
+3. The system shall provide an API for external applications to fetch bias analysis reports.

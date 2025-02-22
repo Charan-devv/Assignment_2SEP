@@ -73,3 +73,11 @@ Our goal is to define clear requirements to solve these problems.
 ### **Requirement 3: Balanced Training Data**  
 - **User Requirement:**  
   *As an AI developer, I want the system to detect bias in training data so I can ensure fair AI models.*
+
+  #### **Assumptions & Validation:**  
+- **Assumption:** Finding and fixing bias in data will make AI models more accurate and reliable.  
+
+##### **Validation Methods:**  
+1. Analyze past training data for bias patterns.  
+2. Compare AI model accuracy before and after fixing bias.  
+3. Get developer feedback on bias detection reports.

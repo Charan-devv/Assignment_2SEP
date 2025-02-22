@@ -69,3 +69,5 @@ Our goal is to define clear requirements to solve these problems.
 1. The system shall use a structured relational database to store questions and answers in separate tables.  
 2. The system shall implement an access control mechanism to prevent unauthorized users from viewing answers.  
 3. The system shall log when and by whom an answer is viewed or modified.
+
+### **Requirement 3: Balanced Training Data**  

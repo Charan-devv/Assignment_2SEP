@@ -100,3 +100,5 @@ Our goal is to define clear requirements to solve these problems.
 4. The system shall support integration with third-party bias detection frameworks for extended functionality.
 
 ### **Requirement 4: Reports on Data Balance**
+- **User Requirement:**  
+  *As an AI developer, I want reports on data balance so I can check if my training data is fair and make improvements if needed.*

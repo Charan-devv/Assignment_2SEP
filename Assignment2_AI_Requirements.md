@@ -81,3 +81,8 @@ Our goal is to define clear requirements to solve these problems.
 1. Analyze past training data for bias patterns.  
 2. Compare AI model accuracy before and after fixing bias.  
 3. Get developer feedback on bias detection reports.
+
+#### **Preliminary Tasks:**  
+1. Identify common bias issues in AI training datasets.  
+2. Research available AI fairness and bias detection tools.  
+3. Develop a prototype bias detection system for testing.

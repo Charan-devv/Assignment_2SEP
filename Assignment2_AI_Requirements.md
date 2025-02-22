@@ -110,3 +110,9 @@ Our goal is to define clear requirements to solve these problems.
 1. Test if reports help developers make better data decisions.  
 2. Compare AI performance before and after using balanced datasets.  
 3. Collect feedback on the clarity and usefulness of reports.
+
+#### **Preliminary Tasks:**  
+1. Research best practices for visualizing dataset balance.  
+2. Define what data balance indicators should be included in reports.  
+3. Test different reporting formats with developers.  
+4. Develop an initial reporting prototype and refine based on feedback.

@@ -116,3 +116,8 @@ Our goal is to define clear requirements to solve these problems.
 2. Define what data balance indicators should be included in reports.  
 3. Test different reporting formats with developers.  
 4. Develop an initial reporting prototype and refine based on feedback.
+
+#### **Functional Requirements:**  
+1. The system shall generate detailed reports on dataset balance, highlighting overrepresented and underrepresented groups.  
+2. The system shall provide recommendations on how to rebalance biased training data.  
+3. The system shall allow users to schedule automated dataset balance reports.  

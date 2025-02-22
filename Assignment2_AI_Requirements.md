@@ -54,3 +54,8 @@ Our goal is to define clear requirements to solve these problems.
 1. Compare AI model performance trained with mixed vs. separated question-answer data.  
 2. Conduct developer interviews to determine the impact of answer separation.  
 3. Test if separation improves developer learning and AI model accuracy. 
+
+#### **Preliminary Tasks:**  
+1. Study how developers currently interact with training questions and answers.  
+2. Research best database structures for separate storage.  
+3. Define rules for when users can access answers.  

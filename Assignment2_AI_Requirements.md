@@ -98,3 +98,5 @@ Our goal is to define clear requirements to solve these problems.
 2. The system shall integrate predefined fairness metrics such as demographic parity and equal representation.  
 3. The system shall provide a dashboard with real-time bias monitoring and suggested actions to correct imbalances.  
 4. The system shall support integration with third-party bias detection frameworks for extended functionality.
+
+### **Requirement 4: Reports on Data Balance**

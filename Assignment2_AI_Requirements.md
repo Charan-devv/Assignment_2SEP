@@ -46,3 +46,6 @@ Our goal is to define clear requirements to solve these problems.
 ### **Requirement 2: Separating Questions and Answers** 
 - **User Requirement:**  
   *As an AI developer, I want training questions stored separately from answers so I can focus on problem-solving without seeing answers immediately.*
+
+  #### **Assumptions & Validation:**  
+- **Assumption:** Keeping questions and answers separate will help developers think critically and reduce bias.

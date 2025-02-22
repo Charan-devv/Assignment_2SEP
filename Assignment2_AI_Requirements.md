@@ -59,3 +59,8 @@ Our goal is to define clear requirements to solve these problems.
 1. Study how developers currently interact with training questions and answers.  
 2. Research best database structures for separate storage.  
 3. Define rules for when users can access answers.  
+
+#### **Functional Requirements:**  
+1. The system shall store training questions in a separate database table from answers.  
+2. The system shall allow users to access training questions without answers by default.  
+3. The system shall include a toggle option that lets users view or hide answers when reviewing training questions.

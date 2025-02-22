@@ -44,3 +44,5 @@ Our goal is to define clear requirements to solve these problems.
 3. The system shall provide a search and filtering mechanism to retrieve training questions by category.
 
 ### **Requirement 2: Separating Questions and Answers** 
+- **User Requirement:**  
+  *As an AI developer, I want training questions stored separately from answers so I can focus on problem-solving without seeing answers immediately.*

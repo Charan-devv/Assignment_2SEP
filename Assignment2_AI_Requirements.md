@@ -64,3 +64,8 @@ Our goal is to define clear requirements to solve these problems.
 1. The system shall store training questions in a separate database table from answers.  
 2. The system shall allow users to access training questions without answers by default.  
 3. The system shall include a toggle option that lets users view or hide answers when reviewing training questions.
+
+#### **System Requirements:**  
+1. The system shall use a structured relational database to store questions and answers in separate tables.  
+2. The system shall implement an access control mechanism to prevent unauthorized users from viewing answers.  
+3. The system shall log when and by whom an answer is viewed or modified.

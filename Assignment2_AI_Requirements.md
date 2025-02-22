@@ -37,3 +37,8 @@ Our goal is to define clear requirements to solve these problems.
 1. The system shall allow users to assign categories to training questions manually.  
 2. The system shall automatically classify training questions into predefined categories using AI-based text analysis.  
 3. The system shall enable users to search and filter training questions based on category.
+
+#### **System Requirements:**  
+1. The system shall use a relational database to store categorized training questions separately from other data.  
+2. The system shall implement an AI-powered text classifier to categorize questions based on content and context.  
+3. The system shall provide a search and filtering mechanism to retrieve training questions by category.

@@ -12,3 +12,10 @@ The AI developer faces two main challenges:
 Our goal is to define clear requirements to solve these problems.  
 
 ---
+
+## **User, Functional & System Requirements**  
+
+### **Requirement 1: Categorized Training Questions**  
+
+- **User Requirement:**  
+  *As an AI developer, I want training questions to be grouped by category so I can quickly find relevant data for AI training.*

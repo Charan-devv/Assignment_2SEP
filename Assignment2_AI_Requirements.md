@@ -102,3 +102,11 @@ Our goal is to define clear requirements to solve these problems.
 ### **Requirement 4: Reports on Data Balance**
 - **User Requirement:**  
   *As an AI developer, I want reports on data balance so I can check if my training data is fair and make improvements if needed.*
+
+  #### **Assumptions & Validation:**  
+- **Assumption:** Developers will benefit from clear reports that highlight fairness issues in datasets.  
+
+##### **Validation Methods:**  
+1. Test if reports help developers make better data decisions.  
+2. Compare AI performance before and after using balanced datasets.  
+3. Collect feedback on the clarity and usefulness of reports.

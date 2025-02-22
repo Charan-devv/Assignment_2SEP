@@ -49,3 +49,8 @@ Our goal is to define clear requirements to solve these problems.
 
   #### **Assumptions & Validation:**  
 - **Assumption:** Keeping questions and answers separate will help developers think critically and reduce bias.
+
+##### **Validation Methods:**  
+1. Compare AI model performance trained with mixed vs. separated question-answer data.  
+2. Conduct developer interviews to determine the impact of answer separation.  
+3. Test if separation improves developer learning and AI model accuracy. 

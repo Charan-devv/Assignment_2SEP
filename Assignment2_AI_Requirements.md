@@ -27,3 +27,8 @@ Our goal is to define clear requirements to solve these problems.
 1. Ask developers if categorized data improves workflow.  
 2. Compare search times for categorized vs. uncategorized questions.  
 3. Test categorized questions with developers and gather feedback.
+
+#### **Preliminary Tasks:**  
+1. Identify common categories used in training datasets.  
+2. Review existing AI-based categorization tools.  
+3. Define rules for how questions should be categorized. 

@@ -71,3 +71,5 @@ Our goal is to define clear requirements to solve these problems.
 3. The system shall log when and by whom an answer is viewed or modified.
 
 ### **Requirement 3: Balanced Training Data**  
+- **User Requirement:**  
+  *As an AI developer, I want the system to detect bias in training data so I can ensure fair AI models.*

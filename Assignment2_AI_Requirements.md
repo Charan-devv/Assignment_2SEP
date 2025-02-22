@@ -19,3 +19,11 @@ Our goal is to define clear requirements to solve these problems.
 
 - **User Requirement:**  
   *As an AI developer, I want training questions to be grouped by category so I can quickly find relevant data for AI training.*
+
+  #### **Assumptions & Validation:**  
+- **Assumption:** Categorized questions will help developers find relevant data faster.  
+
+##### **Validation Methods:**  
+1. Ask developers if categorized data improves workflow.  
+2. Compare search times for categorized vs. uncategorized questions.  
+3. Test categorized questions with developers and gather feedback.
